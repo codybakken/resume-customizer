@@ -1,6 +1,6 @@
 import streamlit as st
-from python-docx import Document
-from python-docx.shared import RGBColor, Inches
+from docx import Document
+from docx.shared import RGBColor, Inches
 import utils.resume_generator as rg
 import utils.prompts as pr
 import utils.resume_reader as rr
