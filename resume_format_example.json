@@ -1,0 +1,66 @@
+{
+
+    "experience":[
+        {
+            "company_name":"ABC Company",
+            "location": "Location",
+            "years": "2023 to 2023",
+            "summary": "OPTIONAL - Describe your overall experience at this company",
+            "roles":[
+                {
+                    "title": "Last/Current Job Title",
+                    "dates": "01/2023 - 01/2023",
+                    "accomplishments": [
+                        "Accomplishment 1",
+                        "Accomplishment 2",
+                        "Enter as many as you can think of"
+                    ]
+            },
+            {
+                "title": "Job Title 2",
+                "dates": "01/2023 - 01/2023",
+                "accomplishments": [
+                        "Accomplishment 1",
+                        "Accomplishment 2"
+                    ]
+        }
+        ]
+    },
+    {
+        "company_name":"XYZ Company",
+            "location": "Location",
+            "years": "2023 to 2023",
+            "summary": "OPTIONAL - Described your overall experience at this company",
+            "roles":[
+                {
+                    "title": "Last/Current Job Title",
+                    "dates": "01/2023 - 01/2023",
+                    "accomplishments": [
+                        "Accomplishment 1",
+                        "Accomplishment 2",
+                        "Enter as many as you can think of"
+                    ]
+            },
+            {
+                "title": "Job Title 2",
+                "dates": "01/2023 - 01/2023",
+                "accomplishments": [
+                        "Accomplishment 1",
+                        "Accomplishment 2"
+                    ]
+        }
+        ]
+
+    }
+    ]
+,
+"education":[
+    "DEGREE2, SCHOOL2, YEAR2",
+    "DEGREE1, SCHOOL1, YEAR1"
+],
+"skills": [
+    "skill1",
+    "skill2",
+    "skill3"
+]
+}
