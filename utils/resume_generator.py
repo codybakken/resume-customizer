@@ -1,8 +1,8 @@
-from docx import Document
-from docx.shared import Pt, Inches, RGBColor
-from docx.enum.text import WD_PARAGRAPH_ALIGNMENT, WD_TAB_ALIGNMENT, WD_ALIGN_PARAGRAPH, WD_LINE_SPACING
-from docx.oxml.ns import qn, nsdecls
-from docx.oxml import parse_xml
+from python-docx import Document
+from python-docx.shared import Pt, Inches, RGBColor
+from python-docx.enum.text import WD_PARAGRAPH_ALIGNMENT, WD_TAB_ALIGNMENT, WD_ALIGN_PARAGRAPH, WD_LINE_SPACING
+from python-docx.oxml.ns import qn, nsdecls
+from python-docx.oxml import parse_xml
 import re
 import utils.prompts as pr
 
